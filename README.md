@@ -1,4 +1,4 @@
-# humanekap/humanevalue
+# humanevalue/humanekap
 
 Resumes are dead.
 Focus on quality efficiency / humane value. 
@@ -153,7 +153,7 @@ with best practices.
 
 ## Feedback?
 
-[https://github.com/dijonkitchen/humanekap/issues](https://github.com/dijonkitchen/humanekap/issues)
+[https://github.com/dijonkitchen/humanevalue/issues](https://github.com/dijonkitchen/humanevalue/issues)
 
 ## License
 
