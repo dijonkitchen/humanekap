@@ -27,6 +27,12 @@ to prevent concious or unconcious bias?
 Getting passed transactions 
 to longer-term thinking and actions.
 
+Network of high-quality people
+that want to delight others:
+hiring managers that understand your skills
+and value creators that are incentivized to improve
+the company long-term. 
+
 ## For career progressors
 
 Tired of wasting time
