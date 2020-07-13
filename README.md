@@ -156,6 +156,7 @@ with best practices.
 * https://danluu.com/wat/
 * https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 * http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html
+* https://fs.blog/2020/07/job-interviews/
 
 ## Feedback?
 
